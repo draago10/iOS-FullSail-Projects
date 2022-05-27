@@ -1,0 +1,46 @@
+[
+    {
+        
+        "storename" : "Walmart",
+        "itemsneeded" : [
+            "Apples",
+            "Oranges",
+            "Cheese"
+        ],
+        "purchaseditems" : [
+            "Toilet Paper",
+            "Water"
+        ]
+        
+    },
+    
+    {
+        "storename" : "Target",
+        "itemsneeded" : [
+            "Chicken",
+            "Pepsi",
+            "Chips"
+        ],
+        "purchaseditems" : [
+            "Ice Cream",
+            "Strawberrys"
+        ]
+        
+    },
+    
+    {
+        
+        
+        "storename" : "Whole Foods",
+        "itemsneeded" : [
+            "Avacados",
+            "Eggs",
+            "Olive Oil"
+        ],
+        "purchaseditems" : [
+            "Whole Wheat Bread",
+            "Pistachios"
+        ]
+        
+    }
+]

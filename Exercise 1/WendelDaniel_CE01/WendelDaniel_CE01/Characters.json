@@ -1,0 +1,146 @@
+[
+  {
+    "firstName": "Cloud",
+    "lastName": "Strife",
+    "age": 21,
+    "weapon": [
+      "Buster Sword",
+      "Iron Blade",
+      "Nail Bat",
+      "Hard Edge",
+      "Mythril Saber",
+      "Twin Saber"
+    ],
+    "characterImage" : "cloud",
+    "mainCharacter": true,
+    "description": "An ex-SOLDIER: first class, Cloud came to Midgar to start a new chapter of his life as a mercenary. At the invitation of his childhood friend, Tifa, he accepted a job with Avalanche. He may bring his buster sword to bear against Shinra troopers, but he does not care for plight of the planet. For him, this is a job and nothing more."
+  },
+  {
+    "firstName": "Aerith",
+    "lastName": "Gainsborough",
+    "age": 22,
+    "weapon": [
+      "Guard Stick",
+      "Silver Staff",
+      "Arcane Scepter",
+      "Mythril Rod",
+      "Bladed Staff",
+      "Reinforced Staff"
+    ],
+    "characterImage" : "aerith",
+    "mainCharacter": true,
+    "description": "Aerith is a flower seller who lives in the Sector 5 slums, who first meets Cloud on the streets of Midgar after the bombing of Mako Reactor 1. Shinra has kept a close eye on her ever since she was a child, as she has the ability to hear the voice of the planet. She is often found tending a modest bed of flowers at an old church in Sector 5."
+  },
+  {
+    "firstName": "Tifa",
+    "lastName": "Lockhart",
+    "age": 20,
+    "weapon": [
+      "Leather Glove",
+      "Metal Knuckles",
+      "Sonic Strikers",
+      "Feathered Glove",
+      "Mythril Claws",
+      "Purple Pain"
+    ],
+    "characterImage" : "tifa",
+    "mainCharacter": true,
+    "description": "A loyal member of Avalanche─an underground organization opposed to Shinra─Tifa also runs Seventh Heaven, a popular bar in the Sector 7 slums. Although she bears a terrible grudge towards Shinra, she is not convinced that bombing mako reactors is the solution. As she struggled to reconcile her cause with her conscience, Tifa was reunited with her childhood friend, Cloud, for the first time in years..."
+  },
+  {
+    "firstName": "Barret",
+    "lastName": "Wallace",
+    "age": 35,
+    "weapon": [
+      "Gatling Gun",
+      "Light Machine Gun",
+      "Big Bertha",
+      "Steel Pincers",
+      "Wreaking Ball",
+      "EKG Cannon"
+    ],
+    "characterImage" : "barret",
+    "mainCharacter": true,
+    "description": "The leader of an independent Avalanche cell in Midgar, Barret was disavowed by the old guard for his extreme methods that attracted too much attention. He subsequently came to Midgar, where he resolved to continue to pursue his vendetta against Shinra with a small but trusted group of followers. When not fighting against the corporation, he and his comrades serve in the neighborhood watch and keep the people safe─including his daughter Marlene, who he dotes on as a loving father."
+  },
+  {
+    "firstName": "Zack",
+    "lastName": "Fair",
+    "age": 23,
+    "weapon": ["Buster Sword"],
+    "mainCharacter": false,
+    "characterImage" : "zack",
+    "description": "Zack Fair, the second wielder of the Buster Sword before Cloud Strife, Zack received the Buster Sword from his mentor, Angeal Hewley. Zack is a 1st Class SOLDIER and is Cloud's best friend during their time working for the Shinra Electric Power Company.o"
+  },
+  {
+    "firstName": "Red XIII",
+    "lastName": "",
+    "age": 48,
+    "weapon": [
+      "Adaman Clip",
+      "Crystal Comb",
+      "Cent Clip",
+      "Spring Gun Clip",
+      "Behemoth Horn",
+      "Limited Moon"
+    ],
+    "characterImage" : "red",
+    "mainCharacter": true,
+    "description": "Red XIII is a beast with a flaming tail, crimson fur, deadly claws, and the ability to speak. At present, he is being held in capitivity as a test subject for Professor Hojo"
+  },
+  {
+    "firstName": "Cait Sith",
+    "lastName": "",
+    "age": 0,
+    "weapon": [
+      "Yellow M-Phone",
+      "White M-Phone",
+      "Green M-Phone",
+      "Black M-Phone",
+      "Silver M-Phone",
+      "Blue M-Phone"
+    ],
+    "characterImage" : "caitsith",
+    "mainCharacter": true,
+    "description": "Cait Sith is a robot that was made to look like a black cat with a crown. In the original FF7, Cloud and the party meet Cait Sith in the Gold Saucer. Cait Sith also rides atop a giant stuffed-toy moogle."
+  },
+  {
+    "firstName": "Rufus",
+    "lastName": "Shinra",
+    "age": 30,
+    "weapon": [
+      "Pistols"
+    ],
+    "mainCharacter": false,
+    "characterImage" : "rufus",
+    "description": "The son of President Shinra and current Vice President of the Shinra Electric Power Company. He has been away from Midgar, the reason being he's conducting business elsewhere. An immensely prideful man, Rufus has a strong rebellious streak and will choose to instead ignore the orders of the president, his father. Despite being the second-highest executive, Rufus prefers the heat of battle, entering the battlefield armed with a custom-made shotgun and Darkstar, a military canine."
+  },
+  {
+    "firstName": "Reeve",
+    "lastName": "Tuesti",
+    "age": 35,
+    "weapon": [
+      "None"
+    ],
+    "mainCharacter": false,
+    "characterImage" : "reeve",
+    "description": "A member of the anti-Shinra resistance group Avalanche. Wedge is tasked with gathering information and placating rival groups using his impressive list of contacts and personal charm. He also plays the vital role of testing new menu items at Seventh Heaven. The mood maker who eases tensions between the other members, he is a vital part of the team"
+  },
+  
+  {
+    "firstName": "Yuffie",
+    "lastName": "Kisaragi",
+    "age": 16,
+    "weapon": [
+      "4-Point Shuriken",
+      "Bomerang",
+      "Super Ball",
+      "Wind Slash",
+      "Pinwheel",
+      "Twin Viper"
+    ],
+    "mainCharacter": true,
+    "characterImage" : "yuffie",
+    "description": "Yuffie is a Materia hunter encountered in various forests on the Planet. As a rebellious and cocky tomboy, she desires to restore her homeland Wutai to the glorious nation it was before being conquered by the Shinra Electric Power Company. Despite her obnoxious personality, Yuffie is friendly, helpful, optimistic and willingly helps the party in their battles."
+  }
+]
